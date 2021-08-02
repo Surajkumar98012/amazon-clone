@@ -6,7 +6,9 @@ import ProductFeed from "../components/ProductFeed";
 
 export default function Home({ products }) {
   return (
+    
     <div className="bg-gray-100">
+    <meta name="google-site-verification" content="Rh_-hyLd9vZl_HkK2sfTcmIbao3wSAAl99Xl8H3IOuY" />
       <Head>
         <title>Online Shopping Site</title>
       </Head>
